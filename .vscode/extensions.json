@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "eeyore.yapf",
+        "ms-python.flake8"
+    ]
+}
